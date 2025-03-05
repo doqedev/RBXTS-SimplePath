@@ -1,7 +1,14 @@
 {
   "name": "@rbxts/simple-path",
+  "description": "A typed port of grayzcale's simple path!",
   "version": "1.0.0",
   "main": "out/init.lua",
+  "typings": "out/index.d.ts",
+  "homepage": "https://grayzcale.github.io/simplepath/",
+  "author": {
+    "name": "doqe",
+    "url": "https://e-z.bio/doqe"
+  },
   "license": "MIT",
   "scripts": {
     "build": "rbxtsc",
