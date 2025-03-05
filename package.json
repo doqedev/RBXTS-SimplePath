@@ -1,5 +1,5 @@
 {
-  "name": "@rbxts/SimplePath",
+  "name": "@rbxts/simple-path",
   "version": "1.0.0",
   "main": "out/init.lua",
   "license": "MIT",
