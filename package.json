@@ -1,7 +1,7 @@
 {
   "name": "@rbxts/simple-path",
   "description": "A typed port of grayzcale's simple path!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "out/init.lua",
   "typings": "out/index.d.ts",
   "homepage": "https://grayzcale.github.io/simplepath/",
