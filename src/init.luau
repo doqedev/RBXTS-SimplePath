@@ -347,4 +347,4 @@ function Path:Run(target)
 	return true
 end
 
-return Path
+return {default = Path}
