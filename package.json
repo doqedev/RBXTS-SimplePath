@@ -16,6 +16,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doqedev/rbxts-simplepath"
+  },
   "devDependencies": {
     "@rbxts/compiler-types": "^3.0.0-types.0",
     "@rbxts/types": "^1.0.839",
